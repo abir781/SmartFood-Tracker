@@ -13,6 +13,20 @@
    4.Firebase
    5.Node js
    6.Mongo DB
+## Dependencies:
+   - tailwind css
+   - axios
+   - React-icons
+   - firebase
+   - react-router
+   - react-simple-typewriter
+   - react-toastify
+   - sweetalert2
+   - swiper
+   - motion
+   - react-countup
+   - lucide-react
+
    
    
    
