@@ -1,5 +1,6 @@
 ![image alt](https://i.ibb.co/TMNqVfDP/ss1.jpg)
 # Project Name: Foodexpirytracker
+## Project description: The Food Expiry Tracker System is a web app that helps users track food items and get alerts before they expire. It aims to reduce food waste by allowing users to add, view, update, and manage food with expiry dates.
 ## live url: https://food-tracker-b6538.web.app/
 ## Key features:
    - Add food
@@ -31,4 +32,4 @@
    
    
 
-## Project description: The Food Expiry Tracker System is a web app that helps users track food items and get alerts before they expire. It aims to reduce food waste by allowing users to add, view, update, and manage food with expiry dates.
+
