@@ -2,17 +2,17 @@
 # Project Name: Foodexpirytracker
 ## live url: https://food-tracker-b6538.web.app/
 ## Key features:
-   1.Add food
-   2.Update food
-   3.Delete food
-   4.Tracking system of a food is expired or not
+   - Add food
+   - Update food
+   - Delete food
+   - Tracking system of a food is expired or not
 ## Technology Used:
-   1.HTML
-   2.Tailwind CSS
-   3.React js
-   4.Firebase
-   5.Node js
-   6.Mongo DB
+   - HTML
+   - Tailwind CSS
+   - React js
+   - Firebase
+   - Node js
+   - Mongo DB
 ## Dependencies:
    - tailwind css
    - axios
