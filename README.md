@@ -1,3 +1,4 @@
+![image alt](https://i.ibb.co/TMNqVfDP/ss1.jpg)
 # Project Name: Foodexpirytracker
 ## live url: https://food-tracker-b6538.web.app/
 ## Key features:
