@@ -3,10 +3,10 @@
 ##  The Food Expiry Tracker System is a web app that helps users track food items and get alerts before they expire. It aims to reduce food waste by allowing users to add, view, update, and manage food with expiry dates.
 ## live url: https://food-tracker-b6538.web.app/
 ## Key features:
-   - Add food
-   - Update food
-   - Delete food
-   - Tracking system of a food is expired or not
+   - You can add food with details and user info, then store in the database. 
+   - You can edit the food using a form with pre-filled data. 
+   - You can delete the food after confirming the action. 
+   - A tracking system to check whether food is expired or not.
 ## Technology Used:
    - HTML
    - Tailwind CSS
